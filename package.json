@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/process-env",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Object containing the user environment.",
   "license": "Apache-2.0",
   "author": {
