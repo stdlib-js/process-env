@@ -85,6 +85,22 @@ console.dir( ENV );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/process/argv`][@stdlib/process/argv]: array containing command-line arguments passed when launching the calling process.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -141,6 +157,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/process-env/main/LICENSE
 
 [man-environ]: http://man7.org/linux/man-pages/man7/environ.7.html
+
+<!-- <related-links> -->
+
+[@stdlib/process/argv]: https://github.com/stdlib-js/process-argv
+
+<!-- </related-links> -->
 
 </section>
 
