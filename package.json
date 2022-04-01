@@ -1,0 +1,36 @@
+{
+  "name": "@stdlib/process-env",
+  "version": "0.0.0",
+  "description": "Object containing the user environment.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/process-env.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "process",
+    "environment",
+    "env",
+    "variables",
+    "vars",
+    "envvars",
+    "user",
+    "environ"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
