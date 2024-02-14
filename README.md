@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ENV from 'https://cdn.jsdelivr.net/gh/stdlib-js/process-env@esm/index.mjs';
+import ENV from 'https://cdn.jsdelivr.net/gh/stdlib-js/process-env@v0.2.0-esm/index.mjs';
 ```
 
 #### ENV
@@ -84,7 +84,7 @@ var user = ENV.USER;
 <body>
 <script type="module">
 
-import ENV from 'https://cdn.jsdelivr.net/gh/stdlib-js/process-env@esm/index.mjs';
+import ENV from 'https://cdn.jsdelivr.net/gh/stdlib-js/process-env@v0.2.0-esm/index.mjs';
 
 console.dir( ENV );
 
