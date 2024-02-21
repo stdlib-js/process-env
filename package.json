@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/process-env",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Object containing the user environment.",
   "license": "Apache-2.0",
   "author": {
@@ -40,8 +40,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@stdlib/assert-is-browser": "^0.1.1",
-    "@stdlib/assert-is-empty-object": "^0.1.0",
+    "@stdlib/assert-is-browser": "^0.2.0",
+    "@stdlib/assert-is-empty-object": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
