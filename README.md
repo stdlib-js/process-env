@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ENV from 'https://cdn.jsdelivr.net/gh/stdlib-js/process-env@deno/mod.js';
+import ENV from 'https://cdn.jsdelivr.net/gh/stdlib-js/process-env@v0.2.2-deno/mod.js';
 ```
 
 #### ENV
@@ -79,7 +79,7 @@ var user = ENV.USER;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import ENV from 'https://cdn.jsdelivr.net/gh/stdlib-js/process-env@deno/mod.js';
+import ENV from 'https://cdn.jsdelivr.net/gh/stdlib-js/process-env@v0.2.2-deno/mod.js';
 
 console.dir( ENV );
 ```
